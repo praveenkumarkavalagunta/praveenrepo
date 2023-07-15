@@ -18,3 +18,22 @@
         
     </body>
     </html>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        
+        <title>Document</title>
+        <h1>HELLO IWELCOME</h1>
+        <p>Thank you for enrolling to DEVOPS trainy </p>
+        <button> SUBMIT</button>
+        <br><br>
+        <h2>PRAVEEN KUMAR KAVALAGUNTA </h2>
+        <h3> JANASENANI FOLLOWER @ VOTE JANASENA</h3>
+        <script>
+            console.log("praveen")
+        </script>
+    </head>
+    <body>
+        
+    </body>
+    </html>
