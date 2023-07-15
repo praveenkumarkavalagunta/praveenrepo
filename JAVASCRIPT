@@ -1,0 +1,20 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        
+        <title>Document</title>
+        <h1>HELLO IWELCOME</h1>
+        <p>Thank you for enrolling to DEVOPS trainy </p>
+        <button> SUBMIT</button>
+        <script>
+
+           
+            var v ='K';
+            String s ="praveen kumar"
+            console.log
+        </script>
+    </head>
+    <body>
+        
+    </body>
+    </html>
